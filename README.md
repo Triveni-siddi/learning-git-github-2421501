@@ -9,6 +9,16 @@ Version control is an **essential** skill for `developers`to master, and Git is 
 |Three |Four     |$120.00  |
 |Five  |Six      |$0.99    |
 
+<details>
+ <summary>collapsed</summary>
+ 
+ # header
+ 
+ This is the copy for the collapsed text.
+ </details>
+
+
+
 This is a footnote[^1]. Another footnote[^2].
 
 [^1]:My reference
